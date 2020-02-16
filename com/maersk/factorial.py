@@ -1,6 +1,6 @@
 def fact(num):
     result = 1
-    if num <= 0:
+    if num == 0:
         return result
     else:
         while num >= 1:
