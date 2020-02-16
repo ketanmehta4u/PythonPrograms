@@ -1,5 +1,6 @@
 # Write a Python Function to find factorial of given number with recursion.
 
+
 def factorial(n):
     if n == 0:
         result = 1
